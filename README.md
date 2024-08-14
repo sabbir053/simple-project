@@ -1,1 +1,1 @@
-# simple-project
+# BMI_calculator_project
